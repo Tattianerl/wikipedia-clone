@@ -44,7 +44,7 @@ Este projeto segue boas práticas de **acessibilidade** e **estrutura semântica
 
 ## 🌐 Acesse o site publicado
 
-📎 [Clique aqui para ver o projeto online](https://tattianerl.github.io/seu-projeto/)  
+📎 [Clique aqui para ver o projeto online](https://tattianerl.github.io/wikipedia-clone/)  
 
 ## 🧑‍💻 Autoria
 
